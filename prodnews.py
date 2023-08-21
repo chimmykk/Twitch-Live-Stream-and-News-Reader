@@ -10,7 +10,7 @@ import openai  # Import the openai library
 app_process = None
 app_opened = False
 application_path = r'C:\Users\paperspace\Downloads\AllCharactersAI_v0.18\AllCharactersAI_v0.18\Windows\Chatbot_Characters.exe'
-openai.api_key = "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"  # Replace with your actual OpenAI API key
+openai.api_key = "remove-just-now"  # Replace with your actual OpenAI API key
 
 def fetch_news(category):
     """Fetches news from the News API based on the provided category."""
